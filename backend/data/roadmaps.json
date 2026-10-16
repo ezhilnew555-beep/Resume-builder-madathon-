@@ -1,0 +1,1895 @@
+{
+  "roadmaps": {
+    "roadmap-3e9378bb2ac2": {
+      "id": "roadmap-3e9378bb2ac2",
+      "user_id": null,
+      "target_role": "Full Stack Engineer",
+      "target_company": null,
+      "job_description_id": null,
+      "weekly_hours": 20,
+      "target_weeks": 8,
+      "skill_gaps": [
+        {
+          "skill": "TypeScript",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Full Stack Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "React",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Full Stack Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Python",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Full Stack Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Docker",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Full Stack Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "PostgreSQL",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Full Stack Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        }
+      ],
+      "milestones": [
+        {
+          "week_number": 2,
+          "title": "Week 2: Core Fundamentals & Environment Setup",
+          "description": "Master baseline architecture and environment setup for TypeScript, React required for Full Stack Engineer.",
+          "focus_skills": [
+            "TypeScript",
+            "React"
+          ],
+          "tasks": [
+            {
+              "id": "task-w1-1",
+              "milestone_week": 2,
+              "milestone_title": "Week 2: Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master TypeScript Core Concepts",
+              "instructions": "1. Review official TypeScript documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "TypeScript",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "TypeScript Handbook",
+                  "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your TypeScript installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Full Stack Engineer roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w1-2",
+              "milestone_week": 2,
+              "milestone_title": "Week 2: Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master React Core Concepts",
+              "instructions": "1. Review official React documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "React",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "React.dev Learn Documentation",
+                  "url": "https://react.dev/learn",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your React installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Full Stack Engineer roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 4,
+          "title": "Week 4: Hands-On Application & Component Engineering",
+          "description": "Build practical modules and integration workflows using React, Python.",
+          "focus_skills": [
+            "React",
+            "Python"
+          ],
+          "tasks": [
+            {
+              "id": "task-w2-1",
+              "milestone_week": 4,
+              "milestone_title": "Week 4: Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in React",
+              "instructions": "1. Design an isolated micro-feature utilizing React.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "React",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "React fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "React.dev Learn Documentation",
+                  "url": "https://react.dev/learn",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing React with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w2-2",
+              "milestone_week": 4,
+              "milestone_title": "Week 4: Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in Python",
+              "instructions": "1. Design an isolated micro-feature utilizing Python.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "Python",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Python fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing Python with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 6,
+          "title": "Week 6: Full Capstone Portfolio Project",
+          "description": "Synthesize TypeScript, React, Python into an end-to-end, portfolio-ready project.",
+          "focus_skills": [
+            "TypeScript",
+            "React",
+            "Python"
+          ],
+          "tasks": [
+            {
+              "id": "task-w3-1",
+              "milestone_week": 6,
+              "milestone_title": "Week 6: Full Capstone Portfolio Project",
+              "title": "Architect & Build Full-Stack Capstone Project",
+              "instructions": "1. Plan an end-to-end application highlighting TypeScript, React, Python.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+              "skill": "TypeScript",
+              "priority": "high",
+              "estimated_hours": 16,
+              "prerequisites": [
+                "Week 1 & 2 modular exercises"
+              ],
+              "resources": [
+                {
+                  "title": "TypeScript Handbook",
+                  "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Develop an end-to-end web service or tool relevant to enterprise tech companies.",
+              "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+              "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+              "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 8,
+          "title": "Week 8: Automated Testing, CI/CD & Evidence Verification",
+          "description": "Add production infrastructure, automated CI pipelines, and public evidence to verify your capabilities.",
+          "focus_skills": [
+            "Docker",
+            "CI/CD",
+            "Testing"
+          ],
+          "tasks": [
+            {
+              "id": "task-w4-1",
+              "milestone_week": 8,
+              "milestone_title": "Week 8: Automated Testing, CI/CD & Evidence Verification",
+              "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+              "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+              "skill": "CI/CD & DevOps",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Capstone Project"
+              ],
+              "resources": [
+                {
+                  "title": "GitHub Actions Documentation",
+                  "url": "https://docs.github.com/en/actions",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+              "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+              "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+              "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        }
+      ],
+      "all_tasks": [
+        {
+          "id": "task-w1-1",
+          "milestone_week": 1,
+          "milestone_title": "Week 1: Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master TypeScript Core Concepts",
+          "instructions": "1. Review official TypeScript documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "TypeScript",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "TypeScript Handbook",
+              "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your TypeScript installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Full Stack Engineer roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w1-2",
+          "milestone_week": 1,
+          "milestone_title": "Week 1: Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master React Core Concepts",
+          "instructions": "1. Review official React documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "React",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "React.dev Learn Documentation",
+              "url": "https://react.dev/learn",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your React installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Full Stack Engineer roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-1",
+          "milestone_week": 2,
+          "milestone_title": "Week 2: Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in React",
+          "instructions": "1. Design an isolated micro-feature utilizing React.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "React",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "React fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "React.dev Learn Documentation",
+              "url": "https://react.dev/learn",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing React with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-2",
+          "milestone_week": 2,
+          "milestone_title": "Week 2: Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in Python",
+          "instructions": "1. Design an isolated micro-feature utilizing Python.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "Python",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Python fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing Python with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w3-1",
+          "milestone_week": 3,
+          "milestone_title": "Week 3: Full Capstone Portfolio Project",
+          "title": "Architect & Build Full-Stack Capstone Project",
+          "instructions": "1. Plan an end-to-end application highlighting TypeScript, React, Python.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+          "skill": "TypeScript",
+          "priority": "high",
+          "estimated_hours": 16,
+          "prerequisites": [
+            "Week 1 & 2 modular exercises"
+          ],
+          "resources": [
+            {
+              "title": "TypeScript Handbook",
+              "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Develop an end-to-end web service or tool relevant to enterprise tech companies.",
+          "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+          "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+          "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w4-1",
+          "milestone_week": 4,
+          "milestone_title": "Week 4: Automated Testing, CI/CD & Evidence Verification",
+          "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+          "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+          "skill": "CI/CD & DevOps",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Capstone Project"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "url": "https://docs.github.com/en/actions",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+          "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+          "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+          "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        }
+      ],
+      "total_tasks": 6,
+      "completed_tasks": 0,
+      "in_progress_tasks": 0,
+      "completion_percentage": 0,
+      "total_estimated_hours": 56,
+      "completed_hours": 0,
+      "is_ai_grounded": false,
+      "provider_used": "deterministic_engine",
+      "disclaimer": "Roadmap tasks and completion metrics reflect self-reported student progress and recommendations tailored to target job requirements. Completion does not guarantee employment or constitute third-party skill certification.",
+      "created_at": "2026-10-16 20:19:37.384002+00:00",
+      "updated_at": "2026-10-16 20:19:48.912231+00:00"
+    },
+    "roadmap-0569a0cf852a": {
+      "id": "roadmap-0569a0cf852a",
+      "user_id": null,
+      "target_role": "Data Analyst",
+      "target_company": "Infosys",
+      "job_description_id": null,
+      "weekly_hours": 20,
+      "target_weeks": 8,
+      "skill_gaps": [
+        {
+          "skill": "Python",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Analyst. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "SQL",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Analyst. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Pandas",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Analyst. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Machine Learning",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Data Analyst. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Data Visualization",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Data Analyst. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        }
+      ],
+      "milestones": [
+        {
+          "week_number": 2,
+          "title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "description": "Master baseline architecture and environment setup for Python, SQL required for Data Analyst.",
+          "focus_skills": [
+            "Python",
+            "SQL"
+          ],
+          "tasks": [
+            {
+              "id": "task-w1-1",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master Python Core Concepts",
+              "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Data Analyst roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w1-2",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master SQL Core Concepts",
+              "instructions": "1. Review official SQL documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "SQL",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "PostgreSQL Official Tutorial",
+                  "url": "https://www.postgresql.org/docs/current/tutorial.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your SQL installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Data Analyst roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 4,
+          "title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "description": "Build practical modules and integration workflows using SQL, Pandas.",
+          "focus_skills": [
+            "SQL",
+            "Pandas"
+          ],
+          "tasks": [
+            {
+              "id": "task-w2-1",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in SQL",
+              "instructions": "1. Design an isolated micro-feature utilizing SQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "SQL",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "SQL fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "PostgreSQL Official Tutorial",
+                  "url": "https://www.postgresql.org/docs/current/tutorial.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing SQL with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w2-2",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in Pandas",
+              "instructions": "1. Design an isolated micro-feature utilizing Pandas.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "Pandas",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Pandas fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "Pandas Documentation & Tutorials",
+                  "url": "https://pandas.pydata.org/docs/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing Pandas with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 6,
+          "title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "description": "Synthesize Python, SQL, Pandas into an end-to-end, portfolio-ready project.",
+          "focus_skills": [
+            "Python",
+            "SQL",
+            "Pandas"
+          ],
+          "tasks": [
+            {
+              "id": "task-w3-1",
+              "milestone_week": 6,
+              "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+              "title": "Architect & Build Full-Stack Capstone Project",
+              "instructions": "1. Plan an end-to-end application highlighting Python, SQL, Pandas.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 16,
+              "prerequisites": [
+                "Week 1 & 2 modular exercises"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+              "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+              "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+              "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 8,
+          "title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "description": "Add production infrastructure, automated CI pipelines, and public evidence to verify your capabilities.",
+          "focus_skills": [
+            "Docker",
+            "CI/CD",
+            "Testing"
+          ],
+          "tasks": [
+            {
+              "id": "task-w4-1",
+              "milestone_week": 8,
+              "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+              "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+              "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+              "skill": "CI/CD & DevOps",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Capstone Project"
+              ],
+              "resources": [
+                {
+                  "title": "GitHub Actions Documentation",
+                  "url": "https://docs.github.com/en/actions",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+              "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+              "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+              "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        }
+      ],
+      "all_tasks": [
+        {
+          "id": "task-w1-1",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master Python Core Concepts",
+          "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Data Analyst roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w1-2",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master SQL Core Concepts",
+          "instructions": "1. Review official SQL documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "SQL",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Official Tutorial",
+              "url": "https://www.postgresql.org/docs/current/tutorial.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your SQL installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Data Analyst roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-1",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in SQL",
+          "instructions": "1. Design an isolated micro-feature utilizing SQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "SQL",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "SQL fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Official Tutorial",
+              "url": "https://www.postgresql.org/docs/current/tutorial.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing SQL with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-2",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in Pandas",
+          "instructions": "1. Design an isolated micro-feature utilizing Pandas.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "Pandas",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Pandas fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "Pandas Documentation & Tutorials",
+              "url": "https://pandas.pydata.org/docs/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing Pandas with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w3-1",
+          "milestone_week": 6,
+          "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "title": "Architect & Build Full-Stack Capstone Project",
+          "instructions": "1. Plan an end-to-end application highlighting Python, SQL, Pandas.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 16,
+          "prerequisites": [
+            "Week 1 & 2 modular exercises"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+          "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+          "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+          "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w4-1",
+          "milestone_week": 8,
+          "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+          "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+          "skill": "CI/CD & DevOps",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Capstone Project"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "url": "https://docs.github.com/en/actions",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+          "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+          "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+          "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        }
+      ],
+      "total_tasks": 6,
+      "completed_tasks": 0,
+      "in_progress_tasks": 0,
+      "completion_percentage": 0,
+      "total_estimated_hours": 56,
+      "completed_hours": 0,
+      "is_ai_grounded": false,
+      "provider_used": "deterministic_engine",
+      "disclaimer": "Roadmap tasks and completion metrics reflect self-reported student progress and recommendations tailored to target job requirements. Completion does not guarantee employment or constitute third-party skill certification.",
+      "created_at": "2026-10-16 20:19:59.643878+00:00",
+      "updated_at": "2026-10-16 20:19:59.643878+00:00"
+    },
+    "roadmap-1d36e423c6cf": {
+      "id": "roadmap-1d36e423c6cf",
+      "user_id": "fce10f69-9f8b-4b07-819e-f2df40f81b07",
+      "target_role": "Backend Developer / Engineer",
+      "target_company": "Infosys",
+      "job_description_id": null,
+      "weekly_hours": 20,
+      "target_weeks": 8,
+      "skill_gaps": [
+        {
+          "skill": "Python",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Backend Developer / Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "FastAPI",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Backend Developer / Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "PostgreSQL",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Backend Developer / Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Docker",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Backend Developer / Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Redis",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Backend Developer / Engineer. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        }
+      ],
+      "milestones": [
+        {
+          "week_number": 2,
+          "title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "description": "Master baseline architecture and environment setup for Python, FastAPI required for Backend Developer / Engineer.",
+          "focus_skills": [
+            "Python",
+            "FastAPI"
+          ],
+          "tasks": [
+            {
+              "id": "task-w1-1",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master Python Core Concepts",
+              "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Backend Developer / Engineer roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w1-2",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master FastAPI Core Concepts",
+              "instructions": "1. Review official FastAPI documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "FastAPI",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "FastAPI Official Tutorial",
+                  "url": "https://fastapi.tiangolo.com/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your FastAPI installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Backend Developer / Engineer roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 4,
+          "title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "description": "Build practical modules and integration workflows using FastAPI, PostgreSQL.",
+          "focus_skills": [
+            "FastAPI",
+            "PostgreSQL"
+          ],
+          "tasks": [
+            {
+              "id": "task-w2-1",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in FastAPI",
+              "instructions": "1. Design an isolated micro-feature utilizing FastAPI.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "FastAPI",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "FastAPI fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "FastAPI Official Tutorial",
+                  "url": "https://fastapi.tiangolo.com/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing FastAPI with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w2-2",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in PostgreSQL",
+              "instructions": "1. Design an isolated micro-feature utilizing PostgreSQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "PostgreSQL",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "PostgreSQL fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "PostgreSQL Official Documentation",
+                  "url": "https://www.postgresql.org/docs/current/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing PostgreSQL with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 6,
+          "title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "description": "Synthesize Python, FastAPI, PostgreSQL into an end-to-end, portfolio-ready project.",
+          "focus_skills": [
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+          ],
+          "tasks": [
+            {
+              "id": "task-w3-1",
+              "milestone_week": 6,
+              "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+              "title": "Architect & Build Full-Stack Capstone Project",
+              "instructions": "1. Plan an end-to-end application highlighting Python, FastAPI, PostgreSQL.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 16,
+              "prerequisites": [
+                "Week 1 & 2 modular exercises"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+              "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+              "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+              "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 8,
+          "title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "description": "Add production infrastructure, automated CI pipelines, and public evidence to verify your capabilities.",
+          "focus_skills": [
+            "Docker",
+            "CI/CD",
+            "Testing"
+          ],
+          "tasks": [
+            {
+              "id": "task-w4-1",
+              "milestone_week": 8,
+              "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+              "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+              "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+              "skill": "CI/CD & DevOps",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Capstone Project"
+              ],
+              "resources": [
+                {
+                  "title": "GitHub Actions Documentation",
+                  "url": "https://docs.github.com/en/actions",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+              "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+              "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+              "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        }
+      ],
+      "all_tasks": [
+        {
+          "id": "task-w1-1",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master Python Core Concepts",
+          "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Backend Developer / Engineer roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w1-2",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master FastAPI Core Concepts",
+          "instructions": "1. Review official FastAPI documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "FastAPI",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "FastAPI Official Tutorial",
+              "url": "https://fastapi.tiangolo.com/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your FastAPI installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Backend Developer / Engineer roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-1",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in FastAPI",
+          "instructions": "1. Design an isolated micro-feature utilizing FastAPI.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "FastAPI",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "FastAPI fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "FastAPI Official Tutorial",
+              "url": "https://fastapi.tiangolo.com/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing FastAPI with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-2",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in PostgreSQL",
+          "instructions": "1. Design an isolated micro-feature utilizing PostgreSQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "PostgreSQL",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "PostgreSQL fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Official Documentation",
+              "url": "https://www.postgresql.org/docs/current/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing PostgreSQL with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w3-1",
+          "milestone_week": 6,
+          "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "title": "Architect & Build Full-Stack Capstone Project",
+          "instructions": "1. Plan an end-to-end application highlighting Python, FastAPI, PostgreSQL.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 16,
+          "prerequisites": [
+            "Week 1 & 2 modular exercises"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+          "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+          "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+          "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w4-1",
+          "milestone_week": 8,
+          "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+          "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+          "skill": "CI/CD & DevOps",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Capstone Project"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "url": "https://docs.github.com/en/actions",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+          "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+          "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+          "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        }
+      ],
+      "total_tasks": 6,
+      "completed_tasks": 0,
+      "in_progress_tasks": 0,
+      "completion_percentage": 0,
+      "total_estimated_hours": 56,
+      "completed_hours": 0,
+      "is_ai_grounded": false,
+      "provider_used": "deterministic_engine",
+      "disclaimer": "Roadmap tasks and completion metrics reflect self-reported student progress and recommendations tailored to target job requirements. Completion does not guarantee employment or constitute third-party skill certification.",
+      "created_at": "2026-10-16 20:20:51.584722+00:00",
+      "updated_at": "2026-10-16 20:20:51.584722+00:00"
+    },
+    "roadmap-02951ab12112": {
+      "id": "roadmap-02951ab12112",
+      "user_id": "fce10f69-9f8b-4b07-819e-f2df40f81b07",
+      "target_role": "Data Scientist",
+      "target_company": "Infosys",
+      "job_description_id": null,
+      "weekly_hours": 20,
+      "target_weeks": 8,
+      "skill_gaps": [
+        {
+          "skill": "Python",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Scientist. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "SQL",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Scientist. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Pandas",
+          "importance": "required",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "high",
+          "reason": "Identified as a required competency for Data Scientist. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Machine Learning",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Data Scientist. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        },
+        {
+          "skill": "Data Visualization",
+          "importance": "preferred",
+          "evidence_found": "No evidence detected in uploaded resume or connected public profiles.",
+          "evidence_status": "not_demonstrated",
+          "learning_priority": "medium",
+          "reason": "Identified as a preferred competency for Data Scientist. No supporting evidence was detected in current documents. (Note: absence in resume indicates missing documentation, not confirmed inability)."
+        }
+      ],
+      "milestones": [
+        {
+          "week_number": 2,
+          "title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "description": "Master baseline architecture and environment setup for Python, SQL required for Data Scientist.",
+          "focus_skills": [
+            "Python",
+            "SQL"
+          ],
+          "tasks": [
+            {
+              "id": "task-w1-1",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master Python Core Concepts",
+              "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Data Scientist roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w1-2",
+              "milestone_week": 2,
+              "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+              "title": "Setup Environment & Master SQL Core Concepts",
+              "instructions": "1. Review official SQL documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+              "skill": "SQL",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Terminal & Git Basics"
+              ],
+              "resources": [
+                {
+                  "title": "PostgreSQL Official Tutorial",
+                  "url": "https://www.postgresql.org/docs/current/tutorial.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Create a reproducible CLI or starter project repository verifying your SQL installation.",
+              "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+              "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+              "target_role_requirement": "Fundamental competency for Data Scientist roles.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 4,
+          "title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "description": "Build practical modules and integration workflows using SQL, Pandas.",
+          "focus_skills": [
+            "SQL",
+            "Pandas"
+          ],
+          "tasks": [
+            {
+              "id": "task-w2-1",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in SQL",
+              "instructions": "1. Design an isolated micro-feature utilizing SQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "SQL",
+              "priority": "high",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "SQL fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "PostgreSQL Official Tutorial",
+                  "url": "https://www.postgresql.org/docs/current/tutorial.html",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing SQL with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            },
+            {
+              "id": "task-w2-2",
+              "milestone_week": 4,
+              "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+              "title": "Build Modular Component / Service in Pandas",
+              "instructions": "1. Design an isolated micro-feature utilizing Pandas.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+              "skill": "Pandas",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Pandas fundamentals"
+              ],
+              "resources": [
+                {
+                  "title": "Pandas Documentation & Tutorials",
+                  "url": "https://pandas.pydata.org/docs/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Implement a functional data processing or UI component utilizing Pandas with automated test suite.",
+              "deliverable": "Tested module with test results log and clean code documentation.",
+              "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+              "target_role_requirement": "Required for practical development on team codebases.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 6,
+          "title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "description": "Synthesize Python, SQL, Pandas into an end-to-end, portfolio-ready project.",
+          "focus_skills": [
+            "Python",
+            "SQL",
+            "Pandas"
+          ],
+          "tasks": [
+            {
+              "id": "task-w3-1",
+              "milestone_week": 6,
+              "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+              "title": "Architect & Build Full-Stack Capstone Project",
+              "instructions": "1. Plan an end-to-end application highlighting Python, SQL, Pandas.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+              "skill": "Python",
+              "priority": "high",
+              "estimated_hours": 16,
+              "prerequisites": [
+                "Week 1 & 2 modular exercises"
+              ],
+              "resources": [
+                {
+                  "title": "Python Official Tutorial",
+                  "url": "https://docs.python.org/3/tutorial/",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+              "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+              "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+              "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        },
+        {
+          "week_number": 8,
+          "title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "description": "Add production infrastructure, automated CI pipelines, and public evidence to verify your capabilities.",
+          "focus_skills": [
+            "Docker",
+            "CI/CD",
+            "Testing"
+          ],
+          "tasks": [
+            {
+              "id": "task-w4-1",
+              "milestone_week": 8,
+              "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+              "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+              "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+              "skill": "CI/CD & DevOps",
+              "priority": "medium",
+              "estimated_hours": 8,
+              "prerequisites": [
+                "Capstone Project"
+              ],
+              "resources": [
+                {
+                  "title": "GitHub Actions Documentation",
+                  "url": "https://docs.github.com/en/actions",
+                  "resource_type": "documentation",
+                  "is_verified": true
+                }
+              ],
+              "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+              "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+              "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+              "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+              "status": "not_started",
+              "user_notes": null,
+              "custom_resources": [],
+              "started_at": null,
+              "completed_at": null
+            }
+          ]
+        }
+      ],
+      "all_tasks": [
+        {
+          "id": "task-w1-1",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master Python Core Concepts",
+          "instructions": "1. Review official Python documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your Python installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Data Scientist roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w1-2",
+          "milestone_week": 2,
+          "milestone_title": "Phase 1 (Week 2): Core Fundamentals & Environment Setup",
+          "title": "Setup Environment & Master SQL Core Concepts",
+          "instructions": "1. Review official SQL documentation and configure local development workspace.\n2. Complete beginner tutorials covering syntax, data flow, and idiomatic conventions.\n3. Build a minimal standalone sandbox demonstrating working configuration.",
+          "skill": "SQL",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Terminal & Git Basics"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Official Tutorial",
+              "url": "https://www.postgresql.org/docs/current/tutorial.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Create a reproducible CLI or starter project repository verifying your SQL installation.",
+          "deliverable": "Clean GitHub repository with README instructions and successful hello-world run.",
+          "completion_criteria": "Application executes without errors and core concepts are documented in README.",
+          "target_role_requirement": "Fundamental competency for Data Scientist roles.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-1",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in SQL",
+          "instructions": "1. Design an isolated micro-feature utilizing SQL.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "SQL",
+          "priority": "high",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "SQL fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "PostgreSQL Official Tutorial",
+              "url": "https://www.postgresql.org/docs/current/tutorial.html",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing SQL with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w2-2",
+          "milestone_week": 4,
+          "milestone_title": "Phase 2 (Week 4): Hands-On Application & Component Engineering",
+          "title": "Build Modular Component / Service in Pandas",
+          "instructions": "1. Design an isolated micro-feature utilizing Pandas.\n2. Handle edge cases, parameter validation, and robust error recovery.\n3. Write automated unit tests verifying component reliability.",
+          "skill": "Pandas",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Pandas fundamentals"
+          ],
+          "resources": [
+            {
+              "title": "Pandas Documentation & Tutorials",
+              "url": "https://pandas.pydata.org/docs/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Implement a functional data processing or UI component utilizing Pandas with automated test suite.",
+          "deliverable": "Tested module with test results log and clean code documentation.",
+          "completion_criteria": "All unit tests pass and code adheres to industry linting and typing standards.",
+          "target_role_requirement": "Required for practical development on team codebases.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w3-1",
+          "milestone_week": 6,
+          "milestone_title": "Phase 3 (Week 6): Full Capstone Portfolio Project",
+          "title": "Architect & Build Full-Stack Capstone Project",
+          "instructions": "1. Plan an end-to-end application highlighting Python, SQL, Pandas.\n2. Structure database schemas, backend endpoints, and interactive frontend.\n3. Implement secure authentication, responsive layout, and robust data persistence.",
+          "skill": "Python",
+          "priority": "high",
+          "estimated_hours": 16,
+          "prerequisites": [
+            "Week 1 & 2 modular exercises"
+          ],
+          "resources": [
+            {
+              "title": "Python Official Tutorial",
+              "url": "https://docs.python.org/3/tutorial/",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Develop an end-to-end web service or tool relevant to Infosys.",
+          "deliverable": "Fully functional GitHub repository with architecture diagram and live demonstration.",
+          "completion_criteria": "Working deployment or local demo video, complete README, and verified operational state.",
+          "target_role_requirement": "Provides tangible project proof to replace uncorroborated resume claims.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "id": "task-w4-1",
+          "milestone_week": 8,
+          "milestone_title": "Phase 4 (Week 8): Automated Testing, CI/CD & Evidence Verification",
+          "title": "Deploy with CI/CD Workflow & Document Verification Proof",
+          "instructions": "1. Add Docker containerization (Dockerfile + docker-compose) for reproducible environments.\n2. Configure GitHub Actions workflow running tests and linter automatically on pull requests.\n3. Write a comprehensive README with badges, setup guides, and architectural decisions.",
+          "skill": "CI/CD & DevOps",
+          "priority": "medium",
+          "estimated_hours": 8,
+          "prerequisites": [
+            "Capstone Project"
+          ],
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "url": "https://docs.github.com/en/actions",
+              "resource_type": "documentation",
+              "is_verified": true
+            }
+          ],
+          "practical_exercise": "Automate deployment and test verification in your capstone repository.",
+          "deliverable": "Passing CI/CD pipeline on GitHub with status badge and public link.",
+          "completion_criteria": "Green build status on GitHub Actions and public repository link added to candidate profile.",
+          "target_role_requirement": "Directly satisfies interviewer requirements for production engineering readiness.",
+          "status": "not_started",
+          "user_notes": null,
+          "custom_resources": [],
+          "started_at": null,
+          "completed_at": null
+        }
+      ],
+      "total_tasks": 6,
+      "completed_tasks": 0,
+      "in_progress_tasks": 0,
+      "completion_percentage": 0,
+      "total_estimated_hours": 56,
+      "completed_hours": 0,
+      "is_ai_grounded": false,
+      "provider_used": "deterministic_engine",
+      "disclaimer": "Roadmap tasks and completion metrics reflect self-reported student progress and recommendations tailored to target job requirements. Completion does not guarantee employment or constitute third-party skill certification.",
+      "created_at": "2026-10-16 20:25:56.789136+00:00",
+      "updated_at": "2026-10-16 20:25:56.789136+00:00"
+    }
+  },
+  "user_active_map": {
+    "fce10f69-9f8b-4b07-819e-f2df40f81b07": "roadmap-02951ab12112"
+  }
+}
